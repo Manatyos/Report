@@ -1,0 +1,12 @@
+\selectlanguage *[]{english}
+\contentsline {chapter}{\numberline {1}ฐานข้อมูลบริษัทผลิตน้ำเปล่า}{2}{}%
+\contentsline {section}{\numberline {1.1}ปัญหา}{2}{}%
+\contentsline {section}{\numberline {1.2}ER Diagram}{3}{}%
+\contentsline {chapter}{\numberline {2}SQL}{4}{}%
+\contentsline {section}{\numberline {2.1}SQL ที่ใช้ในการแก้ปัญหา}{5}{}%
+\contentsline {chapter}{\numberline {3}Data On Website}{7}{}%
+\contentsline {section}{\numberline {3.1}Code ในการนำขึ้นเว็บไซต์}{7}{}%
+\contentsline {subsection}{\numberline {3.1.1}server.js}{7}{}%
+\contentsline {subsection}{\numberline {3.1.2}HTML}{9}{}%
+\contentsline {subsection}{\numberline {3.1.3}script.js}{16}{}%
+\contentsline {chapter}{\numberline {4}Data On GIT}{18}{}%
